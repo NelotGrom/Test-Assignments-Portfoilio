@@ -1,0 +1,276 @@
+"ID","Title","Automation Type","Created By","Created On","Estimate","Expected Result","Forecast","Goals","Mission","Preconditions","Priority","References","Section","Section Depth","Section Description","Section Hierarchy","Steps","Steps","Steps (Additional Info)","Steps (Expected Result)","Steps (References)","Steps (Shared step ID)","Steps (Step)","Suite","Suite ID","Template","Type","Updated By","Updated On"
+"C2443","Checklist for links."," None","Kanstantsin Kojemiakin","4/14/2023 12:49 PM","","","","","","Website https://thewebster.com/ opened in a browser window. ","Medium","","Main Page Header","0","https://thewebster.com Header","Main Page Header","1. Click on """"LOGO (WEBSTER)"""" link in the header.
+Expected Result:
+The corresponding page should load successfully without any errors or delays.2. Click on """"WOMEN"""" link in the header.
+Expected Result:
+The corresponding page should load successfully without any errors or delays.3. Click on """"MEN"""" link in the header.
+Expected Result:
+The corresponding page should load successfully without any errors or delays.4. Click on """"DESIGNERS"""" link in the header.
+Expected Result:
+The corresponding page should load successfully without any errors or delays.5. Click on """"BEAUTY"""" link in the header.
+Expected Result:
+The corresponding page should load successfully without any errors or delays.6. Click on """"HOME"""" link in the header.
+Expected Result:
+The corresponding page should load successfully without any errors or delays.7. Click on """"EDITORIAL"""" link in the header.
+Expected Result:
+The corresponding page should load successfully without any errors or delays.8. Click on """"SALE"""" link in the header.
+Expected Result:
+The corresponding page should load successfully without any errors or delays.","","","The corresponding page should load successfully without any errors or delays.","","","Click on ""LOGO (WEBSTER)"" link in the header.","Master","S9","Test Case (Steps)","Other","Kanstantsin Kojemiakin","4/16/2023 10:37 AM"
+"C2444","Checklist for mouse-over on cart."," None","Kanstantsin Kojemiakin","4/14/2023 12:50 PM","","","","","","Three items are added to the cart.
+Website https://thewebster.com/ opened in a browser window. 
+","Medium","","Main Page Header","0","https://thewebster.com Header","Main Page Header","1. Hovering over the """"Cart"""" button.
+Expected Result:
+Displays a dropdown menu.
+Ensure that current content in the dropdown menu is displayed correctly with the right items and prices.2. Click the """"Cart"""" button.
+Expected Result:
+User is redirected to a page that displays the complete contents of the cart.3. Click on the """"Go To Checkout"""" button in the dropdown menu. 
+Expected Result:
+Redirection to the Checkout page.4. Click on the """"Remove"""" button.
+Expected Result:
+The selected item should be removed from the cart, and the total price of the cart should be updated accordingly. 
+User should also receive a confirmation message indicating that the item has been removed.","","","Displays a dropdown menu.
+Ensure that current content in the dropdown menu is displayed correctly with the right items and prices.","","","Hovering over the ""Cart"" button.","Master","S9","Test Case (Steps)","Other","Kanstantsin Kojemiakin","4/16/2023 10:37 AM"
+"C2476","Checklist for mouse-over on categories."," None","Kanstantsin Kojemiakin","4/15/2023 8:43 PM","","","","","","Website https://thewebster.com/ opened in a browser window. ","Medium","","Main Page Header","0","https://thewebster.com Header","Main Page Header","1. Hover over each category in the header.
+Expected Result:
+A dropdown window with the correct category content appears.2. Verify that the content of the dropdown menu is displayed correctly.
+Expected Result:
+The content of the dropdown menu is displayed correctly, without errors or omissions.3. Verify that all links in the dropdown menu work correctly.
+Expected Result:
+All links in the dropdown menu lead to the corresponding pages.4. Move the mouse cursor to an unoccupied area.
+Expected Result:
+The dropdown menu is hidden when the cursor is moved away.","","","A dropdown window with the correct category content appears.","","","Hover over each category in the header.","Master","S9","Test Case (Steps)","Other","Kanstantsin Kojemiakin","4/16/2023 10:41 AM"
+"C2472","Slides displaying on the desktop version.(NOT IMPLEMENTED)"," None","Kanstantsin Kojemiakin","4/15/2023 8:32 PM","","","","","","","Medium","","Main Page Body","0","https://thewebster.com Body","Main Page Body","","","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/16/2023 11:55 AM"
+"C2473","Slides displaying on the mobile version. (NOT IMPLEMENTED)"," None","Kanstantsin Kojemiakin","4/15/2023 8:33 PM","","","","","","","Medium","","Main Page Body","0","https://thewebster.com Body","Main Page Body","","","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/16/2023 11:55 AM"
+"C2474","Slides move using the mouse on the desktop version. (NOT IMPLEMENTED)"," None","Kanstantsin Kojemiakin","4/15/2023 8:33 PM","","","","","","","Medium","","Main Page Body","0","https://thewebster.com Body","Main Page Body","","","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/16/2023 11:55 AM"
+"C2475","Slides move using the mouse on the mobile version. (NOT IMPLEMENTED)"," None","Kanstantsin Kojemiakin","4/15/2023 8:34 PM","","","","","","","Medium","","Main Page Body","0","https://thewebster.com Body","Main Page Body","","","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/16/2023 11:55 AM"
+"C2466","Join Our Mailing List. (NOT IMPLEMENTED)"," None","Kanstantsin Kojemiakin","4/15/2023 8:24 PM","","","","","","","Medium","","Main Page Footer","0","https://thewebster.com Footer","Main Page Footer","","","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/16/2023 11:56 AM"
+"C2467","Social Icons. (NOT IMPLEMENTED)"," None","Kanstantsin Kojemiakin","4/15/2023 8:24 PM","","","","","","","Medium","","Main Page Footer","0","https://thewebster.com Footer","Main Page Footer","","","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/16/2023 11:56 AM"
+"C2468","Accessibility Options On\Off. (NOT IMPLEMENTED)"," None","Kanstantsin Kojemiakin","4/15/2023 8:24 PM","","","","","","","Medium","","Main Page Footer","0","https://thewebster.com Footer","Main Page Footer","","","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/16/2023 11:56 AM"
+"C2469","Accessibility Options Pairwise Combinations Check-List."," None","Kanstantsin Kojemiakin","4/15/2023 8:25 PM","","All combinations of Accessibility Options should display correctly and respond to user requests.
+","","","","Navigate to the homepage of https://thewebster.com/  
+","Low","","Main Page Footer","0","https://thewebster.com Footer","Main Page Footer","","Perform all combinations listed in the attached file and indicate whether each combination passes or fails the test.","","","","","","Master","S9","Test Case (Text)","Accessibility","Kanstantsin Kojemiakin","4/16/2023 12:01 PM"
+"C2470","Localization - SHIPPING COUNTRY AND CURRENCY. (NOT IMPLEMENTED)"," None","Kanstantsin Kojemiakin","4/15/2023 8:30 PM","","","","","","","Medium","","Main Page Footer","0","https://thewebster.com Footer","Main Page Footer","","","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/16/2023 11:56 AM"
+"C2471","Localization - YOUR LANGUAGE. (NOT IMPLEMENTED)"," None","Kanstantsin Kojemiakin","4/15/2023 8:30 PM","","","","","","","Medium","","Main Page Footer","0","https://thewebster.com Footer","Main Page Footer","","","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/16/2023 11:56 AM"
+"C2464","Pairwise testing for 1st lvl filters."," None","Kanstantsin Kojemiakin","4/15/2023 7:47 PM","","All combinations of filters should display correctly and respond to user requests. 
+","","","","1. User is not logged in. 
+2. Website https://thewebster.com/ opened in browser window. 
+
+This checklist presents 440 parameters instead 12420 combinations generated using pairwise testing method to ensure the proper functioning of the application. The parameters include categories, sizes, colors, and price ranges of products.
+
+
+","Low","","Women & Man","1","https://thewebster.com/shop/women.html
+https://thewebster.com/shop/man.html","Shop Sections > Women & Man","","Perform all 440 combinations listed in the attached file and indicate whether each combination passes or fails the test.","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/16/2023 10:37 AM"
+"C2445","User can register with correct data."," None","Kanstantsin Kojemiakin","4/14/2023 1:27 PM","","The user should be successfully registered and redirected to customer page.","","","","Navigate to the homepage of https://thewebster.com/ and ensure that you are not logged into your account.","Medium","","Registration","0","","Registration","","1.Click on """"Sign In"""" icon.
+
+ ![](index.php?/attachments/get/ccd3276e-7200-4514-a264-e5115a689a64) 
+
+
+2.Click on """"SIGN UP"""" button.  
+3.Fill the field """"EMAIL ADRESS"""" with email that has not been registered on the website.(Ex: johndoe@domain.com)
+4.Fill the field """"PASSWORD"""" of at least 8 characters in length, containing characters from three or more character classes: lowercase letters, uppercase letters, digits, and special characters.(Ex:!1234567A)
+5.Fill the field """"REPEAT PASSWORD"""".
+6.Fill the field """"FIRST NAME"""".
+7.Fill the field """"LAST NAME"""".
+8.Toggle on radiobutton """"I agree to the Webster privacy policy and terms of use"""".
+9.Click on """"JOIN THE WEBSTER ELITE"""" button.
+
+
+","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/16/2023 10:36 AM"
+"C2446","User is not able to register using an invalid email address."," None","Kanstantsin Kojemiakin","4/14/2023 2:01 PM","","An error message is displayed stating that the email address is invalid and that the user is unable to proceed with the registration process.
+The sign-in window saves the data entered by the user.
+","","","","Navigate to the homepage of https://thewebster.com/ and ensure that you are not logged into your account.","Medium","","Registration","0","","Registration","","1.Click on """"Sign In"""" icon.
+2.Click on """"SIGN UP"""" button.
+3.Fill the field """"EMAIL ADDRESS"""" with an invalid email address (e.g. missed """"@"""" symbol, no domain, for example: """"johndoe[at]domain[dot]com"""" or """"johndoe.com"""" or """"johndoe@"""").
+4.Fill the field with a valid """"PASSWORD"""".(Ex:!1234567A)
+5.Fill the field """"REPEAT PASSWORD"""".
+6.Fill the field """"FIRST NAME"""".
+7.Fill the field """"LAST NAME"""".
+8.Toggle on radiobutton """"I agree to the Webster privacy policy and terms of use"""".
+9.Click on """"JOIN THE WEBSTER ELITE"""" button.
+","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/16/2023 10:36 AM"
+"C2447","User is not able to register using an invalid password."," None","Kanstantsin Kojemiakin","4/14/2023 2:01 PM","","An error message is displayed stating that the password is invalid and that the user is unable to proceed with the registration process.
+The sign-in window saves the data entered by the user.","","","","Navigate to the homepage of https://thewebster.com/ and ensure that you are not logged into your account.","Medium","","Registration","0","","Registration","","1. Click on """"Sign In"""" icon.
+2. Click on """"SIGN UP"""" button.
+3. Fill the field """"EMAIL ADDRESS"""" with a valid email address. (e.g. johndoe@example.com)
+4. Fill the field """"PASSWORD"""" with an invalid password that doesn't meet the following requirements:
+        - At least 8 characters in length
+        - Do not containing characters in lowercase letters, uppercase letters, digits, special characters.
+5. Fill the field """"REPEAT PASSWORD"""" with the same invalid password.
+6. Fill the field """"FIRST NAME"""".
+7. Fill the field """"LAST NAME"""".
+8. Toggle on radiobutton """"I agree to the Webster privacy policy and terms of use"""".
+9. Click on """"JOIN THE WEBSTER ELITE"""" button.","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/16/2023 10:36 AM"
+"C2448","User cannot register using an already-used email address."," None","Kanstantsin Kojemiakin","4/14/2023 2:02 PM","","An error message is displayed stating that the email address is already-used and that the user is unable to proceed with the registration process.
+The sign-in window saves the data entered by the user.","","","","Navigate to the homepage of https://thewebster.com/ and ensure that you are not logged into your account.
+
+Create from test-case #C2445 a new user with the email: johndoe@domain.com.
+
+","Medium","C2445","Registration","0","","Registration","","1.Click on """"Sign In"""" icon.
+2.Click on """"SIGN UP"""" button.
+3.Fill the field """"EMAIL ADRESS"""" with already-used email: johndoe@domain.com.
+4.Fill the field """"PASSWORD"""" with valid password for user with email: johndoe@domain.com.
+5.Fill the field """"REPEAT PASSWORD"""".
+6.Fill the field """"FIRST NAME"""".
+7.Fill the field """"LAST NAME"""".
+8.Toggle on radiobutton """"I agree to the Webster privacy policy and terms of use"""".
+9.Click on """"JOIN THE WEBSTER ELITE"""" button.","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/16/2023 10:36 AM"
+"C2449","Verify the impossibility of registration without agreeing to the privacy policy and terms of use."," None","Kanstantsin Kojemiakin","4/14/2023 2:06 PM","","The requirement message """"This is a required field."""" should appear below the Acceptance radio button. 
+
+The sign-in window saves the data entered by the user.","","",""," Navigate to the homepage of https://thewebster.com/ and ensure that you are not logged into your account.
+","Medium","","Registration","0","","Registration","","1.Click on """"Sign In"""" icon.
+2.Click on """"SIGN UP"""" button.
+3.Fill the field """"EMAIL ADRESS"""" with email that has not been registered on the website.(Ex: johndoe@domain.com)
+4.Fill the field """"PASSWORD"""" of at least 8 characters in length, containing characters from three or more character classes: lowercase letters, uppercase letters, digits, and special characters.(Ex:!1234567A)
+5.Fill the field """"REPEAT PASSWORD"""".
+6.Fill the field """"FIRST NAME"""".
+7.Fill the field """"LAST NAME"""".
+8.DO NOT toggle on radiobutton """"I agree to the Webster privacy policy and terms of use"""".
+9.Click on """"JOIN THE WEBSTER ELITE"""" button.
+","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/14/2023 2:21 PM"
+"C2450","Successful subscribing via email notifications."," None","Kanstantsin Kojemiakin","4/14/2023 2:11 PM","","1.The user should be successfully registered and redirected to customer page.
+2.A success message should appear indicating that the user has successfully subscribed to the newsletter via email.
+3.The user's email address should be added to the newsletter subscriber list.
+4.The user should receive a confirmation email with details of their subscription to the newsletter.
+","","","","Navigate to the homepage of https://thewebster.com/ and ensure that you are not logged into your account. 
+","Low","","Registration","0","","Registration","","1.Click on """"Sign In"""" icon.
+ 2.Click on """"SIGN UP"""" button.
+3.Fill the field """"EMAIL ADRESS"""" with email that has not been registered on the website.(Ex: johndoe@domain.com)
+4.Fill the field """"PASSWORD"""" of at least 8 characters in length, containing characters from three or more character classes: lowercase letters, uppercase letters, digits, and special characters.(Ex:!1234567A)
+5.Fill the field """"REPEAT PASSWORD"""".
+6.Fill the field """"FIRST NAME"""".
+7.Fill the field """"LAST NAME"""".
+8.Toggle on radiobutton """"SUBSCRIBE TO OUR NEWSLETTER"""".
+9.Toggle on radiobutton """"I agree to the Webster privacy policy and terms of use"""".
+10.Click on """"JOIN THE WEBSTER ELITE"""" button.","","","","","","Master","S9","Test Case (Text)","Functional","Kanstantsin Kojemiakin","4/16/2023 4:53 PM"
+"C2451","Successful subscribing to SMS notifications."," None","Kanstantsin Kojemiakin","4/14/2023 2:12 PM","","1.The user should be successfully registered and redirected to customer page.
+2.A success message should appear indicating that the user has successfully subscribed to the newsletter via SMS.
+3.The user's phone number should be added to the newsletter subscriber list.
+4.The user should receive a confirmation SMS with details of their subscription to the newsletter.","","","","Navigate to the homepage of https://thewebster.com/ and ensure that you are not logged into your account. ","Low","","Registration","0","","Registration","","1.Click on """"Sign In"""" icon.
+2.Click on """"SIGN UP"""" button.
+3.Fill the field """"EMAIL ADRESS"""" with email that has not been registered on the website.(Ex: johndoe@domain.com)
+4.Fill the field """"PASSWORD"""" of at least 8 characters in length, containing characters from three or more character classes: lowercase letters, uppercase letters, digits, and special characters.(Ex:!1234567A)
+5.Fill the field """"REPEAT PASSWORD"""".
+6.Fill the field """"FIRST NAME"""".
+7.Fill the field """"LAST NAME"""".
+8.Toggle on radiobutton """"JOIN OUR SMS LIST"""".
+9.In the field below select the dropdown menu to choose the correct country code.
+10.Enter a valid phone number for the field with country code.
+11.Toggle on radiobutton """"I agree to the Webster privacy policy and terms of use"""".
+12.Click on """"JOIN THE WEBSTER ELITE"""" button.
+","","","","","","Master","S9","Test Case (Text)","Functional","Kanstantsin Kojemiakin","4/16/2023 4:53 PM"
+"C2459","Successful login with valid data."," None","Kanstantsin Kojemiakin","4/15/2023 2:27 PM","","1. User is successfully logged in and redirected to their account page.
+2. The user's login status is persisted across different pages and sessions.
+3. Login session expires after a reasonable amount of time, or upon logout action by the user.","","","","1. Test user with email 'testuser@example.com' and password 'test1234' is created and registered in the system.
+2. User is on the website https://thewebster.com/
+","Medium","","Log In","0","","Log In","","1. On the homepage, click on the user profile icon
+2. Enter the correct email and password for the test user
+3. Check the """"Remember Me"""" radio button if needed
+4. Click on the """"Sign In"""" button","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/16/2023 10:34 AM"
+"C2460","Unsuccessful login with invalid data."," None","Kanstantsin Kojemiakin","4/15/2023 2:28 PM","","The user should see an error message indicating that the email or password is incorrect.","","","","The user is on the website https://thewebster.com/","Medium","","Log In","0","","Log In","","1. Click on the user account icon on the homepage. 
+2. Enter an invalid email and password combination. (E.g.: invalid_email, invalid_password). 
+3. Click on the """"Sign In"""" button.
+
+","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/16/2023 10:34 AM"
+"C2461","Unsuccessful login with missing data."," None","Kanstantsin Kojemiakin","4/15/2023 2:28 PM","","The user should see an error message indicating that the email and password fields are required.","","","","The user is on the website https://thewebster.com/","Medium","","Log In","0","","Log In","","1. Click on the user account icon on the homepage.
+2. Leave both email and password fields empty.
+3. Click on the """"Sign In"""" button.
+
+","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/16/2023 10:35 AM"
+"C2452","Adding an item to the cart."," None","Kanstantsin Kojemiakin","4/15/2023 12:38 PM","","The user should be redirected to the cart page, where the selected item with the chosen characteristics is displayed in the cart.","","","","1. Cart is empty.
+2. User is not logged in. 
+3. Website https://thewebster.com/ opened in browser window.
+","High","","Cart","0","","Cart","","1. Hover the cursor over any product on the homepage.
+2. Select a size or another characteristic, and click on the """"Add to cart"""" button.
+3. Wait for the pop-up window and click on the """"View Cart"""" button.
+
+
+","","","","","","Master","S9","Test Case (Text)","Regression","Kanstantsin Kojemiakin","4/16/2023 4:52 PM"
+"C2453","Changing the number of items in the cart."," None","Kanstantsin Kojemiakin","4/15/2023 12:39 PM","","All expected results have been passed in this test case.","","","","1. There are three different items in the cart.
+2. User is not logged in. 
+3. Website https://thewebster.com/ opened in browser window.
+
+","Medium","","Cart","0","","Cart","","|||:#|:Steps to reproduce|:Expected results
+|| 1 | Hover the cursor over cart icon. |Сart section will appear.  
+|| 2 | Select """"Viev and edit cart"""" button.  | Redirected to the cart page. 
+|| 3 | For the first item in the list, select 0 in the quantity field. |  The modified item should be removed from the cart.
+|| 4 |  For the second item in the list, increase the quantity by one in the quantity field.|  The quantity should increase by one, or a pop-up message should appear indicating that the quantity cannot be increased in the cart. Сlose the error message if it occurs.
+|| 5.1. | For the last item, increase the quantity by one and then decrease it by one in the quantity field.   | The quantity should increase and then decrease. Сlose the error message if it occurs.
+|| 5.2. | If the user receives an error message, try to perform this step with a product from this link (https://thewebster.com/shop/1047950-8058006-vintage-check-olympia-pouch-archive-beige-and-black.html). | The quantity should increase and then decrease.
+","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/16/2023 10:32 AM"
+"C2454","Deleting an item from the cart."," None","Kanstantsin Kojemiakin","4/15/2023 12:40 PM","","All expected results have been passed in this test case.
+","","","","1. The user has added at least three different products to the cart.
+2. User is not logged in. 
+3. Cart is opened in the browser window.","Medium","","Cart","0","","Cart","","
+|||:#:|:Steps to reproduce|:Expected Result
+||1.| For the first item in the cart, change the quantity field to 0. |The picked item should be removed from the cart and the cart total should be updated accordingly.
+||2.| For the second item in the cart, click on the delete icon (trash bin). |The picked item should be removed from the cart and the cart total should be updated accordingly.
+||3.| For the last item in the cart, click on the delete icon (trash bin). |The picked item should be removed from the cart and the cart total should be updated accordingly.
+||4.| Click on the """"Checkout"""" button with the last remaining item in the cart. |The user should be redirected to the Checkout page, where the selected item with the chosen characteristics is displayed in the order.
+
+
+
+
+","","","","","","Master","S9","Test Case (Text)","Other","Kanstantsin Kojemiakin","4/16/2023 10:32 AM"
+"C2455","Possibility of placing an order for a non-logged in user."," None","Kanstantsin Kojemiakin","4/15/2023 12:40 PM","","The user should be redirected to the REVIEW & PAYMENT page, where the selected item with the chosen characteristics is displayed in the order.","","","","1. The user has added at least one product to the cart.
+2. User is not logged in. 
+3. Cart is opened in the browser window.","Critical","","Cart","0","","Cart","","1. Click on the """"Checkout"""" button in the cart.
+
+
+The user should be redirected to the shipping page, where the selected item with the chosen characteristics is displayed in the order.
+
+2. In the guest section, enter a valid email address (e.g. johndoe@domain.com) in the email field and click the """"continue as a guest"""" button.
+3. After redirecting to the 'Shipping' page, fill in the fields: First Name, Last Name, Street Address, Appartment/Suite/Other, Country and State/Province from the drop-down list, City, Zip/Postal Code, Phone Number.
+Valid testing data for filling in the fields:
+    First Name: John
+    Last Name: Doe
+    Street Address: 123 Main Street
+    Apt/Suite/Other: Apt 4B
+    Country: United States
+    State/Province: California
+    City: Los Angeles
+    Zip/Postal Code: 90001
+    Phone Number: +1 555-123-4567
+4. Select the first delivery option.
+
+
+
+
+
+
+
+","","","","","","Master","S9","Test Case (Text)","Regression","Kanstantsin Kojemiakin","4/16/2023 4:51 PM"
+"C2456","Extended verification of work with several items in the basket and checkout."," None","Kanstantsin Kojemiakin","4/15/2023 12:47 PM","","The user should be redirected to the Checkout page, where the selected item with the chosen characteristics is displayed in the order.","","","","1. Cart is empty.
+2. User is not logged in. 
+3. Website https://thewebster.com/ opened in browser window.","High","","Cart","0","","Cart","","1. Hover the cursor over any product on the homepage.
+2. Select a size or another characteristic, and click on the """"Add to cart"""" button. 
+3. Wait for the pop-up window and click on the close button.
+4. Repeat steps 2 and 3 of this test case and add two more items.
+5. Add to cart the last item and in pop-up window click on the """"View Cart"""" button.
+6. In the opened window, delete any item by clicking on the delete/trash button.  
+The picked item should be removed from the cart and the cart total should be updated accordingly.
+7. Click on the """"Checkout"""" button with the remaining items in the cart.
+
+
+
+
+
+","","","","","","Master","S9","Test Case (Text)","Regression","Kanstantsin Kojemiakin","4/16/2023 4:50 PM"
+"C2457","Payment with a credit card."," None","Kanstantsin Kojemiakin","4/15/2023 2:19 PM","","User should be redirected to the order confirmation page.
+Order confirmation email should be sent to the user's email address.
+Payment should be processed successfully.","","","","User has added items to the cart and filled in the shipping address form.
+User is on the payment method selection page.","Critical","","Payment","0","","Payment","","1. Select """"Credit Card"""" as the payment method.
+2. Fill in the credit card details using test credit card information (e.g. card number, expiry date, CVV, name on card).
+    Testing card data below:
+    Cardholder Name: John Doe
+    Card Number: 4242 4242 4242 4242
+    Expiration Date: 12/23
+    CVV: 123   
+3. Click on the """"Place order"""" button.
+4. Complete the payment process using the test credit card.","","","","","","Master","S9","Test Case (Text)","Regression","Kanstantsin Kojemiakin","4/16/2023 4:49 PM"
+"C2458","Payment with the PayPal."," None","Kanstantsin Kojemiakin","4/15/2023 2:19 PM","","User should be redirected to the order confirmation page.
+Order confirmation email should be sent to the user's email address.
+Payment should be processed successfully.","","","","User has added items to the cart and filled in the shipping address form.
+User is on the payment method selection page.","Medium","","Payment","0","","Payment","","1. Select """"PayPal"""" as the payment method.
+2. Click on the """"Continue to PayPal"""" button.
+3. Log in to PayPal using test account credentials.
+4. Complete the payment process using a test PayPal account.","","","","","","Master","S9","Test Case (Text)","Regression","Kanstantsin Kojemiakin","4/16/2023 4:50 PM"
